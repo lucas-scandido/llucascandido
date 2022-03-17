@@ -1,6 +1,6 @@
 ## <h1> Hey there! I'm <a href="https://www.linkedin.com/in/candidolucas" target="_blank">Lucas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> </h1>
 
-- I'm currently focused on Test Automation with Cypress.
+- I'm currently focused on Frameworks for Test Automation.
 
 <a href="https://www.linkedin.com/in/candidolucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/llucas.candido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
